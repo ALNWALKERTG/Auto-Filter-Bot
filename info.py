@@ -84,7 +84,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/CiNeMaL0KaM_GrOuP')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/CiNeMaL0KaM_GrOuP")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/CiNeMaLoKaM_MoVieS')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/CiNeMaL0KaM_GrOuP')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+bB3Vdzim0MdkNzM1')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/CiNeMaL0KaM_GrOuP")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/CiNeMaL0KaM_GrOuP")
 
